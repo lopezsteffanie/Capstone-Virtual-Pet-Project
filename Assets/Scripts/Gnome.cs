@@ -13,7 +13,7 @@ public class Gnome : MonoBehaviour
 
     [SerializeField] float delay = 3f;
 
-    bool buttonClick = false;
+    bool buttonClick;
 
     void Awake()
     {
@@ -24,15 +24,11 @@ public class Gnome : MonoBehaviour
 
     void Start ()
     {
-        while (!buttonClick && happinessBar.value > 0)
-        {
-            StartCoroutine(DecreaseHappiness());
-        }
+        StartCoroutine(DecreaseHappiness());
     }
 
     public void OnFeedSelect()
     {
-        buttonClick =true;
         happinessBar.value++;
         happinessKeeper.IncrementHappinessLevel();
         happinessLevelText.text = "Happiness level: " + happinessBar.value + "/" + happinessBar.maxValue;
@@ -40,9 +36,12 @@ public class Gnome : MonoBehaviour
 
     IEnumerator DecreaseHappiness()
     {
-        yield return new WaitForSeconds(delay);
-        happinessBar.value--;
-        happinessKeeper.DecreaseHappinessLevel();
-        happinessLevelText.text = "Happiness level: " + happinessBar.value + "/" + happinessBar.maxValue;
+        while (happinessBar.value > 0)
+        {
+            yield return new WaitForSeconds(delay);
+            happinessBar.value--;
+            happinessKeeper.DecreaseHappinessLevel();
+            happinessLevelText.text = "Happiness level: " + happinessBar.value + "/" + happinessBar.maxValue;
+        }
     }
 }
