@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class HappinessKeeper : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [Header("HappinessLevel")]
+    int happinessLevel = 5;
+
+    public int GetHappinessLevel()
     {
-        
+        return happinessLevel;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void IncrementHappinessLevel()
     {
-        
+        happinessLevel++;
+    }
+
+    public void DecreaseHappinessLevel()
+    {
+        happinessLevel--;
     }
 }
