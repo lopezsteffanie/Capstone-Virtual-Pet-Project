@@ -3052,7 +3052,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Number of goals completed: 0'
+  m_text: 'Number of goals completed: 0!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bc69930e3879c47b7b6dbb54cd593db4, type: 2}
   m_sharedMaterial: {fileID: -107168591191043037, guid: bc69930e3879c47b7b6dbb54cd593db4, type: 2}
