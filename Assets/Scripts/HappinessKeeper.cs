@@ -5,7 +5,7 @@ using UnityEngine;
 public class HappinessKeeper : MonoBehaviour
 {
     [Header("HappinessLevel")]
-    int happinessLevel = 5;
+    int happinessLevel = 10;
 
     public int GetHappinessLevel()
     {

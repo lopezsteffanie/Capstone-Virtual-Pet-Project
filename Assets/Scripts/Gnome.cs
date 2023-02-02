@@ -18,8 +18,8 @@ public class Gnome : MonoBehaviour
     void Awake()
     {
         happinessKeeper = FindObjectOfType<HappinessKeeper>();
-        happinessBar.maxValue = 10;
-        happinessBar.value = 5;
+        happinessBar.maxValue = 20;
+        happinessBar.value = 10;
     }
 
     void Start ()
@@ -32,6 +32,11 @@ public class Gnome : MonoBehaviour
         happinessBar.value++;
         happinessKeeper.IncrementHappinessLevel();
         happinessLevelText.text = "Happiness level: " + happinessBar.value + "/" + happinessBar.maxValue;
+    }
+
+    public void onFeed()
+    {
+        AddToHappiness();
     }
 
     IEnumerator DecreaseHappiness()

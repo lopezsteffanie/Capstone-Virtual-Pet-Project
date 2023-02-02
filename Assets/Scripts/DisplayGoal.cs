@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
 public class DisplayGoal : MonoBehaviour
@@ -29,5 +28,15 @@ public class DisplayGoal : MonoBehaviour
         goalEnterButton.SetActive(false);
         toggleBox.SetActive(true);
         markCompleteText.SetActive(true);
+        inputGoal.text = "";
+    }
+
+    public void resetGoal()
+    {
+        displayGoal.text = "Your goal: ";
+        inputField.SetActive(true);
+        goalEnterButton.SetActive(true);
+        toggleBox.SetActive(false);
+        markCompleteText.SetActive(false);
     }
 }
