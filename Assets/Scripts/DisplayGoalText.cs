@@ -1,17 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class DisplayGoalText : MonoBehaviour
 {
-    public string theName;
-    public GameObject inputField;
-    public GameObject textDisplay;
+    public TextMeshProUGUI displayGoal;
+    public TMP_InputField inputGoal;
 
-    public void StoreName()
+    public void setGoal()
     {
-        theName = inputField.GetComponent<Text>().text;
-        textDisplay.GetComponent<Text>().text = "Welcome " + theName + " to the game";
+        displayGoal.text = "Your goal: " + inputGoal.text;
     }
 }

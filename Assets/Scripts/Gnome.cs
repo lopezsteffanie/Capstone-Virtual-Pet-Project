@@ -11,7 +11,7 @@ public class Gnome : MonoBehaviour
 
     [SerializeField] Slider happinessBar;
 
-    [SerializeField] float delay = 3f;
+    [SerializeField] float delay = 60f;
 
     bool buttonClick;
 
