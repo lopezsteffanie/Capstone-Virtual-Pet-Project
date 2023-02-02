@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class DisplayGoal : MonoBehaviour
+public class DisplayGoalText : MonoBehaviour
 {
     // HappinessKeeper happinessKeeper;
     Gnome gnomeHappiness;

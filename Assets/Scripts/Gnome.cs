@@ -27,7 +27,7 @@ public class Gnome : MonoBehaviour
         StartCoroutine(DecreaseHappiness());
     }
 
-    public void OnFeedSelect()
+    public void AddToHappiness()
     {
         happinessBar.value++;
         happinessKeeper.IncrementHappinessLevel();
@@ -38,7 +38,7 @@ public class Gnome : MonoBehaviour
     {
         while (happinessBar.value > 0)
         {
-            yield return new WaitForSeconds(delay);
+            yield return new WaitForSecondsRealtime(delay);
             happinessBar.value--;
             happinessKeeper.DecreaseHappinessLevel();
             happinessLevelText.text = "Happiness level: " + happinessBar.value + "/" + happinessBar.maxValue;
