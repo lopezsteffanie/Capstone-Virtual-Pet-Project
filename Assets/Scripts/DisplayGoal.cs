@@ -14,13 +14,8 @@ public class DisplayGoal : MonoBehaviour
     public GameObject markCompleteText;
     public GameObject goalEnterButton;
 
-    [SerializeField] Toggle toggle;
-
-
     void Start()
     {
-        toggle = GetComponent<Toggle>();
-        markGoalComplete();
         gnomeHappiness = FindObjectOfType<Gnome>();
         toggleBox.SetActive(false);
         markCompleteText.SetActive(false);
@@ -34,17 +29,5 @@ public class DisplayGoal : MonoBehaviour
         goalEnterButton.SetActive(false);
         toggleBox.SetActive(true);
         markCompleteText.SetActive(true);
-    }
-
-    public void markGoalComplete()
-    {
-        if (toggle.isOn)
-        {
-            Debug.Log("toggle is on");
-        }
-        else if (!toggle.isOn)
-        {
-            Debug.Log("toggle is off");
-        }
     }
 }
