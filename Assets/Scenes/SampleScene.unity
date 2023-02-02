@@ -328,7 +328,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1455769059}
-        m_TargetAssemblyTypeName: DisplayGoalText, Assembly-CSharp
+        m_TargetAssemblyTypeName: DisplayGoal, Assembly-CSharp
         m_MethodName: setGoal
         m_Mode: 1
         m_Arguments:
@@ -1540,7 +1540,7 @@ GameObject:
   - component: {fileID: 1008347356}
   - component: {fileID: 1008347357}
   m_Layer: 5
-  m_Name: Mark Goal Complete
+  m_Name: Goal Complete Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1615,7 +1615,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_IsOn: 1
+  m_IsOn: 0
 --- !u!1 &1028446830
 GameObject:
   m_ObjectHideFlags: 0
@@ -2389,6 +2389,10 @@ MonoBehaviour:
   displayGoal: {fileID: 637963997}
   inputGoal: {fileID: 818418863}
   inputField: {fileID: 818418861}
+  toggleBox: {fileID: 1008347355}
+  markCompleteText: {fileID: 1379369405}
+  goalEnterButton: {fileID: 75389669}
+  toggle: {fileID: 1008347357}
 --- !u!1 &1482888845
 GameObject:
   m_ObjectHideFlags: 0
