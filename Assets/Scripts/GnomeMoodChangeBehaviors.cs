@@ -12,20 +12,17 @@ public class GnomeMoodChangeBehaviors : MonoBehaviour
     [SerializeField] GameObject gnome;
 
     [Header("Gnome Sounds")]
-    // [SerializeField] AudioClip happySound;
-    // [SerializeField] AudioClip sadSound;
-    // [SerializeField] AudioClip okSound;
     [SerializeField] AudioSource okAudio;
     [SerializeField] AudioSource happyAudio;
     [SerializeField] AudioSource sadAudio;
-    [SerializeField] float countdown = 10f;
 
     HappinessKeeper happinessKeeper;
 
     void Start ()
     {
         happinessKeeper = FindObjectOfType<HappinessKeeper>();
-        InvokeRepeating("PlaySound", 5f, 10f);
+        float randomTime = Random.Range(5f, 60f);
+        InvokeRepeating("PlaySound", 5f, randomTime);
     }
 
     void Update ()
