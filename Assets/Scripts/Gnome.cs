@@ -14,7 +14,6 @@ public class Gnome : MonoBehaviour
     [SerializeField] float delay = 60f;
 
     bool buttonClick;
-
     void Awake()
     {
         happinessKeeper = FindObjectOfType<HappinessKeeper>();
