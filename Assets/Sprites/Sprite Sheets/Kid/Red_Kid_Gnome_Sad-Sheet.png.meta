@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9b78a5655bcc407abe96d76ee6b1af1
-      internalID: 302107837
+      spriteID: 4ea7b9e904681426984154675bf79b23
+      internalID: 463413212
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c48de9a64de8041fbaa9b9d30639b7c3
-      internalID: -2008272889
+      spriteID: 45c1de22493d043d7b857bf8b5fd1820
+      internalID: 2033105952
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c8023a7a6fba4ce0adabf03ddd5084a
-      internalID: 2033079720
+      spriteID: 6613a6c4dfdc4437e9d2550a5f0bbf13
+      internalID: -392732960
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29eea45b586f942ab93d5c289a35f198
-      internalID: 633259633
+      spriteID: cf7f122e44c714fb497b7f9e2adbecf8
+      internalID: -587005458
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0524c6e5a6bca49808e2faeccffe5aa9
-      internalID: 496706550
+      spriteID: 1f0e6044bc9c24460ac65c949432caff
+      internalID: -2082823025
       vertices: []
       indices: 
       edges: []
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee5564c2334f644f0ae3f762c1677c31
-      internalID: 1462834769
+      spriteID: d314dce1c30fb45a09173da2f12c5542
+      internalID: -992702430
       vertices: []
       indices: 
       edges: []
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d8595fa255e8433e8248de07fa89ea8
-      internalID: 1685530590
+      spriteID: 263db6b5977eb4a0783b1cc66e52903b
+      internalID: -1454830906
       vertices: []
       indices: 
       edges: []
@@ -274,13 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Red_Kid_Gnome_Sad-Sheet_0: 302107837
-      Red_Kid_Gnome_Sad-Sheet_3: 633259633
-      Red_Kid_Gnome_Sad-Sheet_4: 496706550
-      Red_Kid_Gnome_Sad-Sheet_1: -2008272889
-      Red_Kid_Gnome_Sad-Sheet_2: 2033079720
-      Red_Kid_Gnome_Sad-Sheet_6: 1685530590
-      Red_Kid_Gnome_Sad-Sheet_5: 1462834769
+      Red_Kid_Gnome_Sad-Sheet_0: 463413212
+      Red_Kid_Gnome_Sad-Sheet_3: -587005458
+      Red_Kid_Gnome_Sad-Sheet_4: -2082823025
+      Red_Kid_Gnome_Sad-Sheet_1: 2033105952
+      Red_Kid_Gnome_Sad-Sheet_2: -392732960
+      Red_Kid_Gnome_Sad-Sheet_6: -1454830906
+      Red_Kid_Gnome_Sad-Sheet_5: -992702430
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

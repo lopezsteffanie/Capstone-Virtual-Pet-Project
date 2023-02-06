@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -122,8 +122,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08caaf1b408f34c0198a4e06a7ac7bfc
-      internalID: 1779916059
+      spriteID: 2c42e4b2070ab4fa0952b6afe214ce25
+      internalID: -1780668764
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 2000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec0bbf2401ae448f9a95a7e452c3fc63
-      internalID: -56794242
+      spriteID: 6fddfafde461241d49d9d82def8e97db
+      internalID: 656475242
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 4000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd8f5e0ac8174dea9812a34464fef35
-      internalID: 1729635979
+      spriteID: a953d360abc0943e59df5ecc3e6aa792
+      internalID: 919392602
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 6000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7be8c9480de54c7d8a2d321d7ea3d2b
-      internalID: 1747040930
+      spriteID: 33d410fce38e24a088d817482da9d4af
+      internalID: -1717461973
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 8000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d212cf5b488104f6d8b91ae740ef4573
-      internalID: -902740592
+      spriteID: 6048f5657acae4077a50d615a743bd1c
+      internalID: 408676912
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_5
       rect:
         serializedVersion: 2
-        x: 320
+        x: 10000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb3787a6c9c9b426da2e7eda1956931c
-      internalID: 1274070759
+      spriteID: 2235968b1acf946cdbb3eca4fda5367e
+      internalID: 2065915941
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Sad-Sheet_6
       rect:
         serializedVersion: 2
-        x: 384
+        x: 12000
         y: 0
-        width: 64
-        height: 128
+        width: 2000
+        height: 4000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ff5e2ab69f894db38ad992b41342656
-      internalID: 917389990
+      spriteID: d6da7cbf7a66c464595ece9a599c5eef
+      internalID: 461144690
       vertices: []
       indices: 
       edges: []
@@ -274,13 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Red_Baby_Gnome_Sad-Sheet_0: 1779916059
-      Red_Baby_Gnome_Sad-Sheet_6: 917389990
-      Red_Baby_Gnome_Sad-Sheet_3: 1747040930
-      Red_Baby_Gnome_Sad-Sheet_4: -902740592
-      Red_Baby_Gnome_Sad-Sheet_2: 1729635979
-      Red_Baby_Gnome_Sad-Sheet_1: -56794242
-      Red_Baby_Gnome_Sad-Sheet_5: 1274070759
+      Red_Baby_Gnome_Sad-Sheet_0: -1780668764
+      Red_Baby_Gnome_Sad-Sheet_6: 461144690
+      Red_Baby_Gnome_Sad-Sheet_3: -1717461973
+      Red_Baby_Gnome_Sad-Sheet_4: 408676912
+      Red_Baby_Gnome_Sad-Sheet_2: 919392602
+      Red_Baby_Gnome_Sad-Sheet_1: 656475242
+      Red_Baby_Gnome_Sad-Sheet_5: 2065915941
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

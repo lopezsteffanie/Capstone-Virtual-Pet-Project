@@ -122,8 +122,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5591cfc5e6694e4d88cc5a57ae85918
-      internalID: -273213932
+      spriteID: 6b517d8ba90044457991ae4f3eb6775b
+      internalID: -96552572
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 296b5990aba0047cbb57c9fb77bedb1a
-      internalID: 1667855576
+      spriteID: 6e33ef63dd2144da0a4cf203631e67c1
+      internalID: -55212227
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 400
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67df4145825349d2b284945f864ec15
-      internalID: -1996765153
+      spriteID: 9a1f46defb8704fc6966d478e4d46199
+      internalID: 76250602
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 600
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9e0644d71a314a9ab8e66594bd03597
-      internalID: -434724350
+      spriteID: a4b2c15646c0c4f48b653ce8b7775a25
+      internalID: -2138292059
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 800
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f71a8f78769341949134d40897624f1
-      internalID: 1183920128
+      spriteID: dc66c5c57ee7a464ba97a052828b80ea
+      internalID: -648263727
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_5
       rect:
         serializedVersion: 2
-        x: 320
+        x: 1000
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f886cc60e3ac84bbda5775b42b490268
-      internalID: -1667967786
+      spriteID: 1849cfe3b292b45409b473b417aea183
+      internalID: 860158231
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_6
       rect:
         serializedVersion: 2
-        x: 384
+        x: 1200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65ebfa303f8ae4a42bfda92e7b5c8765
-      internalID: 712590472
+      spriteID: e139de9516f284a958a9c8f1b68e4935
+      internalID: -1549920051
       vertices: []
       indices: 
       edges: []
@@ -267,10 +267,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_7
       rect:
         serializedVersion: 2
-        x: 448
+        x: 1400
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d94ff1822ba6d4c71a53c8365f89d3bc
-      internalID: -1692745629
+      spriteID: 02245c94363af4e0eab340786a16dfbd
+      internalID: 645988627
       vertices: []
       indices: 
       edges: []
@@ -288,10 +288,10 @@ TextureImporter:
       name: Green_Adult_Gnome_Idle.-Sheet_8
       rect:
         serializedVersion: 2
-        x: 512
+        x: 1600
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7829195900fa0413282fc76c83fc7ede
-      internalID: 475346241
+      spriteID: 07a3ca2a30dc54344b9461f92f000900
+      internalID: 1131689141
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Green_Adult_Gnome_Idle.-Sheet_8: 475346241
-      Green_Adult_Gnome_Idle.-Sheet_0: -273213932
-      Green_Adult_Gnome_Idle.-Sheet_2: -1996765153
-      Green_Adult_Gnome_Idle.-Sheet_7: -1692745629
-      Green_Adult_Gnome_Idle.-Sheet_5: -1667967786
-      Green_Adult_Gnome_Idle.-Sheet_3: -434724350
-      Green_Adult_Gnome_Idle.-Sheet_1: 1667855576
-      Green_Adult_Gnome_Idle.-Sheet_4: 1183920128
-      Green_Adult_Gnome_Idle.-Sheet_6: 712590472
+      Green_Adult_Gnome_Idle.-Sheet_8: 1131689141
+      Green_Adult_Gnome_Idle.-Sheet_0: -96552572
+      Green_Adult_Gnome_Idle.-Sheet_2: 76250602
+      Green_Adult_Gnome_Idle.-Sheet_7: 645988627
+      Green_Adult_Gnome_Idle.-Sheet_5: 860158231
+      Green_Adult_Gnome_Idle.-Sheet_3: -2138292059
+      Green_Adult_Gnome_Idle.-Sheet_1: -55212227
+      Green_Adult_Gnome_Idle.-Sheet_4: -648263727
+      Green_Adult_Gnome_Idle.-Sheet_6: -1549920051
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

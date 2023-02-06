@@ -122,8 +122,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bedd4b6856b2d44c484a9b9d5b175528
-      internalID: 1586497531
+      spriteID: 2ad756477e406419482660ec32932b3d
+      internalID: 599075770
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Happy-Sheet_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b7d31866626949e0be86c9b23088a7c
-      internalID: -2009887207
+      spriteID: 1718b59bd47ff49ee8f827033172366f
+      internalID: 1703645237
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Happy-Sheet_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 400
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f14a46a13639f42288a8dc11ee8b504e
-      internalID: -577521610
+      spriteID: 96d63207077534193b63ffc64c49c65a
+      internalID: 1897483502
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Happy-Sheet_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 600
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 584ac093f7c17444a990e885e42e0d3b
-      internalID: -618134334
+      spriteID: c891727e772f64a49a58688d5a26750f
+      internalID: -1742233045
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: Red_Baby_Gnome_Happy-Sheet_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 800
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c1e98b877e664adf9d3316297c40ffc
-      internalID: -383660290
+      spriteID: 3effee31b9bf24179915d9569816a1f0
+      internalID: 213277944
       vertices: []
       indices: 
       edges: []
@@ -232,11 +232,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Red_Baby_Gnome_Happy-Sheet_0: 1586497531
-      Red_Baby_Gnome_Happy-Sheet_4: -383660290
-      Red_Baby_Gnome_Happy-Sheet_3: -618134334
-      Red_Baby_Gnome_Happy-Sheet_1: -2009887207
-      Red_Baby_Gnome_Happy-Sheet_2: -577521610
+      Red_Baby_Gnome_Happy-Sheet_0: 599075770
+      Red_Baby_Gnome_Happy-Sheet_4: 213277944
+      Red_Baby_Gnome_Happy-Sheet_3: -1742233045
+      Red_Baby_Gnome_Happy-Sheet_1: 1703645237
+      Red_Baby_Gnome_Happy-Sheet_2: 1897483502
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

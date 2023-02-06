@@ -122,8 +122,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa39cd6123ffe445da32d6c766e59069
-      internalID: 1344866582
+      spriteID: 30347c95f03ea44529216e108f909b72
+      internalID: -1832679510
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2e6c4bcd469a4477b52a2b1353c7037
-      internalID: 1296374043
+      spriteID: 3817af238da484e9082668ac678ca089
+      internalID: -1356915807
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 400
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e7c7206d6bd64ac5bd747542abc6cc4
-      internalID: 688052814
+      spriteID: a84ab2bf4457d4fa3ba9edbcc326fb99
+      internalID: 2048056741
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 600
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5277655937240418bd848b6cf80b86
-      internalID: 1901822162
+      spriteID: c415fc85abe3b4e38817f835ff8de6be
+      internalID: 1116858513
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 800
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c74ecd157829c41a4a339136317fc438
-      internalID: 539399164
+      spriteID: c4cc18ae08fb64ce1b44e53d8db898a6
+      internalID: -1811118303
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_5
       rect:
         serializedVersion: 2
-        x: 320
+        x: 1000
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa1c1da371e494c15a59b598c1cc1138
-      internalID: -550108975
+      spriteID: 4eab0490b417c47ef8051e5bb590a1d1
+      internalID: 588840183
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: Green_Baby_Gnome_Sad-Sheet_6
       rect:
         serializedVersion: 2
-        x: 384
+        x: 1200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b32adeeba6a475b8c8759b113db706
-      internalID: 1846606145
+      spriteID: 232a278d953ca4a88af3963d8b07a3ec
+      internalID: 645650987
       vertices: []
       indices: 
       edges: []
@@ -274,13 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Green_Baby_Gnome_Sad-Sheet_4: 539399164
-      Green_Baby_Gnome_Sad-Sheet_0: 1344866582
-      Green_Baby_Gnome_Sad-Sheet_2: 688052814
-      Green_Baby_Gnome_Sad-Sheet_5: -550108975
-      Green_Baby_Gnome_Sad-Sheet_6: 1846606145
-      Green_Baby_Gnome_Sad-Sheet_1: 1296374043
-      Green_Baby_Gnome_Sad-Sheet_3: 1901822162
+      Green_Baby_Gnome_Sad-Sheet_4: -1811118303
+      Green_Baby_Gnome_Sad-Sheet_0: -1832679510
+      Green_Baby_Gnome_Sad-Sheet_2: 2048056741
+      Green_Baby_Gnome_Sad-Sheet_5: 588840183
+      Green_Baby_Gnome_Sad-Sheet_6: 645650987
+      Green_Baby_Gnome_Sad-Sheet_1: -1356915807
+      Green_Baby_Gnome_Sad-Sheet_3: 1116858513
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

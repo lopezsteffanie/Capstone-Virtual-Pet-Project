@@ -122,8 +122,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6f6a68e7fece4b2c86833ede0a6d351
-      internalID: -1336348809
+      spriteID: efe54287fd83b454ba77af512079bee3
+      internalID: -394832780
       vertices: []
       indices: 
       edges: []
@@ -141,10 +141,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e81091e2c9b9344a8b706d64cee83daa
-      internalID: -1360787266
+      spriteID: 39f457e29f8f14241a2547625cfc455a
+      internalID: 577214318
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 400
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7be97c4590a17488a9eaf1f08a59df40
-      internalID: -2087407128
+      spriteID: 73fc5441b4c9c47af819676051dc77a0
+      internalID: 904115158
       vertices: []
       indices: 
       edges: []
@@ -183,10 +183,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_3
       rect:
         serializedVersion: 2
-        x: 192
+        x: 600
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c300a302a4742f88a97d7da76faf1d
-      internalID: -1807837722
+      spriteID: cd7ee8c810a7841c883a01ca4532ad76
+      internalID: -1454163047
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 800
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04ba21354daf04e839421367bc8ce10a
-      internalID: -781660064
+      spriteID: 0cff8e06507924d43bd38d841f505e69
+      internalID: 2020549499
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_5
       rect:
         serializedVersion: 2
-        x: 320
+        x: 1000
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f3d795e3c29e494e9e429bf18e297bb
-      internalID: 18635040
+      spriteID: 72fef4e3ca7b14a5797540bb84501f28
+      internalID: 905536900
       vertices: []
       indices: 
       edges: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: Blue_Adult_Gnome_Sad-Sheet_6
       rect:
         serializedVersion: 2
-        x: 384
+        x: 1200
         y: 0
-        width: 64
-        height: 128
+        width: 200
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c9fc20b015194c1aa60a7024e644da5
-      internalID: 1033546885
+      spriteID: 1bd846d1877d04eb298a83f368c84272
+      internalID: 1374266161
       vertices: []
       indices: 
       edges: []
@@ -274,13 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Blue_Adult_Gnome_Sad-Sheet_2: -2087407128
-      Blue_Adult_Gnome_Sad-Sheet_5: 18635040
-      Blue_Adult_Gnome_Sad-Sheet_4: -781660064
-      Blue_Adult_Gnome_Sad-Sheet_3: -1807837722
-      Blue_Adult_Gnome_Sad-Sheet_6: 1033546885
-      Blue_Adult_Gnome_Sad-Sheet_1: -1360787266
-      Blue_Adult_Gnome_Sad-Sheet_0: -1336348809
+      Blue_Adult_Gnome_Sad-Sheet_2: 904115158
+      Blue_Adult_Gnome_Sad-Sheet_5: 905536900
+      Blue_Adult_Gnome_Sad-Sheet_4: 2020549499
+      Blue_Adult_Gnome_Sad-Sheet_3: -1454163047
+      Blue_Adult_Gnome_Sad-Sheet_6: 1374266161
+      Blue_Adult_Gnome_Sad-Sheet_1: 577214318
+      Blue_Adult_Gnome_Sad-Sheet_0: -394832780
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
